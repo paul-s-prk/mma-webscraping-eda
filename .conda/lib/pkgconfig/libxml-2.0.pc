@@ -1,0 +1,13 @@
+prefix=/Users/sungpark/Code/mma-webscraping-eda/.conda
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+modules=1
+
+Name: libXML
+Version: 2.11.6
+Description: libXML library version2.
+Requires:
+Libs: -L${libdir} -lxml2
+Libs.private: -L/Users/sungpark/Code/mma-webscraping-eda/.conda/lib -lz -L/Users/sungpark/Code/mma-webscraping-eda/.conda/lib -llzma  -L/Users/sungpark/Code/mma-webscraping-eda/.conda/lib -liconv -L/Users/sungpark/Code/mma-webscraping-eda/.conda/lib -licui18n -licuuc -licudata   
+Cflags: -I${includedir}/libxml2 -I/Users/sungpark/Code/mma-webscraping-eda/.conda/include 

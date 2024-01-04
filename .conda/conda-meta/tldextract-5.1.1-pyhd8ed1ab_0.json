@@ -1,0 +1,236 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "filelock >=3.0.8",
+    "idna",
+    "python >=3.8",
+    "requests >=2.1.0",
+    "requests-file >=1.4"
+  ],
+  "extracted_package_dir": "/Users/sungpark/miniconda3/pkgs/tldextract-5.1.1-pyhd8ed1ab_0",
+  "files": [
+    "lib/python3.11/site-packages/tldextract-5.1.1.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/tldextract-5.1.1.dist-info/LICENSE",
+    "lib/python3.11/site-packages/tldextract-5.1.1.dist-info/METADATA",
+    "lib/python3.11/site-packages/tldextract-5.1.1.dist-info/RECORD",
+    "lib/python3.11/site-packages/tldextract-5.1.1.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/tldextract-5.1.1.dist-info/WHEEL",
+    "lib/python3.11/site-packages/tldextract-5.1.1.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/tldextract-5.1.1.dist-info/entry_points.txt",
+    "lib/python3.11/site-packages/tldextract-5.1.1.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/tldextract/.tld_set_snapshot",
+    "lib/python3.11/site-packages/tldextract/__init__.py",
+    "lib/python3.11/site-packages/tldextract/__main__.py",
+    "lib/python3.11/site-packages/tldextract/_version.py",
+    "lib/python3.11/site-packages/tldextract/cache.py",
+    "lib/python3.11/site-packages/tldextract/cli.py",
+    "lib/python3.11/site-packages/tldextract/py.typed",
+    "lib/python3.11/site-packages/tldextract/remote.py",
+    "lib/python3.11/site-packages/tldextract/suffix_list.py",
+    "lib/python3.11/site-packages/tldextract/tldextract.py",
+    "lib/python3.11/site-packages/tldextract/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/tldextract/__pycache__/__main__.cpython-311.pyc",
+    "lib/python3.11/site-packages/tldextract/__pycache__/_version.cpython-311.pyc",
+    "lib/python3.11/site-packages/tldextract/__pycache__/cache.cpython-311.pyc",
+    "lib/python3.11/site-packages/tldextract/__pycache__/cli.cpython-311.pyc",
+    "lib/python3.11/site-packages/tldextract/__pycache__/remote.cpython-311.pyc",
+    "lib/python3.11/site-packages/tldextract/__pycache__/suffix_list.cpython-311.pyc",
+    "lib/python3.11/site-packages/tldextract/__pycache__/tldextract.cpython-311.pyc",
+    "bin/tldextract"
+  ],
+  "fn": "tldextract-5.1.1-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/Users/sungpark/miniconda3/pkgs/tldextract-5.1.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "1b7d6c94d4e9ba604c2d2d04e19acf7f",
+  "name": "tldextract",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/sungpark/miniconda3/pkgs/tldextract-5.1.1-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/tldextract-5.1.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/tldextract-5.1.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "a2a9434ea65a2a9789ea362c418a9392657c8061a0fa8edc3bf3a71fbf4a8ec1",
+        "sha256_in_prefix": "a2a9434ea65a2a9789ea362c418a9392657c8061a0fa8edc3bf3a71fbf4a8ec1",
+        "size_in_bytes": 1522
+      },
+      {
+        "_path": "site-packages/tldextract-5.1.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "5469147e1382083d78341cdcd1ff41a96a75aae13df795df2a0d547a09fb52e9",
+        "sha256_in_prefix": "5469147e1382083d78341cdcd1ff41a96a75aae13df795df2a0d547a09fb52e9",
+        "size_in_bytes": 11313
+      },
+      {
+        "_path": "site-packages/tldextract-5.1.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d805a672a09efc7ea9acd85897d7260a229fdc5a68524bb61094bf1d9771bf49",
+        "sha256_in_prefix": "d805a672a09efc7ea9acd85897d7260a229fdc5a68524bb61094bf1d9771bf49",
+        "size_in_bytes": 2064
+      },
+      {
+        "_path": "site-packages/tldextract-5.1.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/tldextract-5.1.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "5e8f7ed4fbe4ba29abc9dba360902317ba4292b8ae5c1a543c48e66b59d9c89d",
+        "sha256_in_prefix": "5e8f7ed4fbe4ba29abc9dba360902317ba4292b8ae5c1a543c48e66b59d9c89d",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/tldextract-5.1.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "663f980d36c35b0cc3f02becce13277fad84d2c61c5adc33d7598decb0073da7",
+        "sha256_in_prefix": "663f980d36c35b0cc3f02becce13277fad84d2c61c5adc33d7598decb0073da7",
+        "size_in_bytes": 106
+      },
+      {
+        "_path": "site-packages/tldextract-5.1.1.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "112b645c2f3405eb42329d540e1537916b97068dea0e980a96d653275c78c755",
+        "sha256_in_prefix": "112b645c2f3405eb42329d540e1537916b97068dea0e980a96d653275c78c755",
+        "size_in_bytes": 51
+      },
+      {
+        "_path": "site-packages/tldextract-5.1.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "0d66488d5e3d58fdf4b720b528e10feedf84692e084425d0cdcd0a5c03a7fdb9",
+        "sha256_in_prefix": "0d66488d5e3d58fdf4b720b528e10feedf84692e084425d0cdcd0a5c03a7fdb9",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "site-packages/tldextract/.tld_set_snapshot",
+        "path_type": "hardlink",
+        "sha256": "4d5c9ad1b09c9912a5ff5ea83ca3c894d9964b4f6b5eb8ce2868188e1bc018b1",
+        "sha256_in_prefix": "4d5c9ad1b09c9912a5ff5ea83ca3c894d9964b4f6b5eb8ce2868188e1bc018b1",
+        "size_in_bytes": 238022
+      },
+      {
+        "_path": "site-packages/tldextract/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ad98370cacd2f424c046e1784eeab9d158882f0524b43103f3d02ff274ad36e3",
+        "sha256_in_prefix": "ad98370cacd2f424c046e1784eeab9d158882f0524b43103f3d02ff274ad36e3",
+        "size_in_bytes": 216
+      },
+      {
+        "_path": "site-packages/tldextract/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "1717c234ea335d26893f61938e058b027d37a0d31dfc451439691f4f5fd84603",
+        "sha256_in_prefix": "1717c234ea335d26893f61938e058b027d37a0d31dfc451439691f4f5fd84603",
+        "size_in_bytes": 90
+      },
+      {
+        "_path": "site-packages/tldextract/_version.py",
+        "path_type": "hardlink",
+        "sha256": "e0474328633a221a3a94cefc950f5a60d5520c5f61e192ab78e239ea287c81fb",
+        "sha256_in_prefix": "e0474328633a221a3a94cefc950f5a60d5520c5f61e192ab78e239ea287c81fb",
+        "size_in_bytes": 411
+      },
+      {
+        "_path": "site-packages/tldextract/cache.py",
+        "path_type": "hardlink",
+        "sha256": "4f6c8b48787f52178977a56a1cf92148c5e97ee18c8a4510dda12f7e07181855",
+        "sha256_in_prefix": "4f6c8b48787f52178977a56a1cf92148c5e97ee18c8a4510dda12f7e07181855",
+        "size_in_bytes": 8610
+      },
+      {
+        "_path": "site-packages/tldextract/cli.py",
+        "path_type": "hardlink",
+        "sha256": "9c2cc1005ae0028a532b5b7978145081ebde4a05a1794c782c09401c4ffc9b34",
+        "sha256_in_prefix": "9c2cc1005ae0028a532b5b7978145081ebde4a05a1794c782c09401c4ffc9b34",
+        "size_in_bytes": 3010
+      },
+      {
+        "_path": "site-packages/tldextract/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/tldextract/remote.py",
+        "path_type": "hardlink",
+        "sha256": "7692f3facfb500fe008b85cf5507beb93d8d99ebfc09910c29445da86c395e20",
+        "sha256_in_prefix": "7692f3facfb500fe008b85cf5507beb93d8d99ebfc09910c29445da86c395e20",
+        "size_in_bytes": 2550
+      },
+      {
+        "_path": "site-packages/tldextract/suffix_list.py",
+        "path_type": "hardlink",
+        "sha256": "4dc529313670b227199fafde1caa80e1b8eead0aca61d7b5e0ffb81d3e2ce321",
+        "sha256_in_prefix": "4dc529313670b227199fafde1caa80e1b8eead0aca61d7b5e0ffb81d3e2ce321",
+        "size_in_bytes": 3896
+      },
+      {
+        "_path": "site-packages/tldextract/tldextract.py",
+        "path_type": "hardlink",
+        "sha256": "1d17fb79f55b133dff939743ca98e9a8db545c231bed95a8b59d6971c479741a",
+        "sha256_in_prefix": "1d17fb79f55b133dff939743ca98e9a8db545c231bed95a8b59d6971c479741a",
+        "size_in_bytes": 18776
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tldextract/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tldextract/__pycache__/__main__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tldextract/__pycache__/_version.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tldextract/__pycache__/cache.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tldextract/__pycache__/cli.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tldextract/__pycache__/remote.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tldextract/__pycache__/suffix_list.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tldextract/__pycache__/tldextract.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "bin/tldextract",
+        "path_type": "unix_python_entry_point"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "tldextract==5.1.1=pyhd8ed1ab_0",
+  "sha256": "553a31d0e9d357ad766c67fb90d12fb94d9bb95b164df567216c071937d9d580",
+  "size": 93562,
+  "subdir": "noarch",
+  "timestamp": 1700220529000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/tldextract-5.1.1-pyhd8ed1ab_0.conda",
+  "version": "5.1.1"
+}
